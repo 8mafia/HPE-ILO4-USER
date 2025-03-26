@@ -1,0 +1,15 @@
+{
+    "login_username": "administrator",
+    "login_password": "You'rpass",
+    "new_username": "New-User",
+    "new_password": "Newpass",
+    "permissions": {
+        "Administer User Accounts": false,
+        "Remote Console Access": true,
+        "Virtual Power and Reset": true,
+        "Virtual Media": true,
+        "Configure iLO Settings": false,
+        "Login": true
+    }
+}
+
